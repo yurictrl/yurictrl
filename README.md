@@ -1,25 +1,17 @@
 
 
+---
 
-# My GitHub Profile
-
-## ☁️ Google Cloud
-<p align="left">
-  <a href="https://www.cloudskillsboost.google/public_profiles/SEU_ID_DO_GCP">
-    <img src="https://i.postimg.cc/Wp5Zv4K9/ai.png" alt="Introduction to Generative AI Badge" width="220" />
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,5,8,10&height=120&section=header&text=INSERT%20COIN%20TO%20START...&fontSize=28&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 </p>
 
 
 
-*   **Introduction to Generative AI**
-
----
-
-
 
 
 ---
+
 
 
 <!--
